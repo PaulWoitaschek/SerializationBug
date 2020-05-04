@@ -1,0 +1,3 @@
+rootProject.name='SerializationBug'
+include ':app'
+include ':mylibrary'
